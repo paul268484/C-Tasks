@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC92A1D-9359-4B26-99CD-80CD1CBAA2E0}|Assignment.csproj|c:\\users\\ajay.paul\\downloads\\ajaypaul\\dotnet\\assignment\\fruittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC92A1D-9359-4B26-99CD-80CD1CBAA2E0}|Assignment.csproj|solutionrelative:fruittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC92A1D-9359-4B26-99CD-80CD1CBAA2E0}|Assignment.csproj|c:\\users\\ajay.paul\\downloads\\ajaypaul\\dotnet\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC92A1D-9359-4B26-99CD-80CD1CBAA2E0}|Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ListTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ListMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ArrayTask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ArrayTasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\StringReplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringReplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\DateTimeMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DateTimeMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayPratice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ArrayPratice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\MathMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\FormatingOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormatingOutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListTask.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListTask.cs",
+              "RelativeDocumentMoniker": "ListTask.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListTask.cs",
+              "RelativeToolTip": "ListTask.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:18:26.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitTask.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\FruitTask.cs",
+              "RelativeDocumentMoniker": "FruitTask.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\FruitTask.cs",
+              "RelativeToolTip": "FruitTask.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:50:08.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListMethods.cs",
+              "RelativeDocumentMoniker": "ListMethods.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ListMethods.cs",
+              "RelativeToolTip": "ListMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:33:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayTask2.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTask2.cs",
+              "RelativeDocumentMoniker": "ArrayTask2.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTask2.cs",
+              "RelativeToolTip": "ArrayTask2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:38:38.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayTasks.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTasks.cs",
+              "RelativeDocumentMoniker": "ArrayTasks.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayTasks.cs",
+              "RelativeToolTip": "ArrayTasks.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:15:54.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:58:29.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringReplace.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\StringReplace.cs",
+              "RelativeDocumentMoniker": "StringReplace.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\StringReplace.cs",
+              "RelativeToolTip": "StringReplace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:24:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateTimeMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\DateTimeMethod.cs",
+              "RelativeDocumentMoniker": "DateTimeMethod.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\DateTimeMethod.cs",
+              "RelativeToolTip": "DateTimeMethod.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:07:14.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayPratice.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayPratice.cs",
+              "RelativeDocumentMoniker": "ArrayPratice.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\ArrayPratice.cs",
+              "RelativeToolTip": "ArrayPratice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:10:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MathMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\MathMethods.cs",
+              "RelativeDocumentMoniker": "MathMethods.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\MathMethods.cs",
+              "RelativeToolTip": "MathMethods.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:50:42.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormatingOutput.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\FormatingOutput.cs",
+              "RelativeDocumentMoniker": "FormatingOutput.cs",
+              "ToolTip": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\Assignment\\FormatingOutput.cs",
+              "RelativeToolTip": "FormatingOutput.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:02:31.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
